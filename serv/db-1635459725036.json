@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "body": "Body of task one",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "body": "Body of task two",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "body": "Body of task three",
+      "completed": true
+    }
+  ]
+}
